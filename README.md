@@ -13,7 +13,7 @@ A collection of custom themes for [LeanType](https://github.com/LeanBitLab/Helib
 | Theme                      | Preview                                                        | Style                                                                      |
 | -------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | **After Colony**           | ![AfterColony](previews/AfterColony.jpg)<br>![AfterColony(Gesture)](previews/AfterColony(Gesture).jpg) | A fun Anime (Gundam Wing) keyboard. If you want to use your own backgrounds, use this theme. Just dim/overlay your own bg by 35%-50%, and add it to this theme from your app.                                                                                                     |
-| **AfterColonyZero**            | ![AfterColonyZero](previews/AfterColonyZero.jpg)                                                       | Pure black background, white keys, magenta/pink number accents, cyan globe and delete button, purple search button. <br>The contrast is immaculate.   |
+| **After Colony Zero**            | ![AfterColonyZero](previews/AfterColonyZero.jpg)                                                       | Pure black background, white keys, magenta/pink number accents, cyan globe and delete button, purple search button. <br>The contrast is immaculate.   |
 | **Cyberpunk Neony**         | ![Cyberpunk Neony](previews/Cyberpunk-neony.jpg)                 | Dark navy, full neon yellow keys, cyan search button — bold and it works              |
 | **PLN**                    | ![PLN](previews/PLN.png)                                       | Personal Nord variant — steel blue, warm and less clinical than stock Nord |
 | **My Mild Purple**         | ![My Mild Purple](previews/My-mild-purple.png)                 | Light base with lavender accent keys and purple bottom row                 |
@@ -68,5 +68,5 @@ star-keyboard-themes/
 If my themes made your keyboard a little nicer:
 
 - Ko-fi: [ko.fi/StarTrowa](https://ko.fi/Star_Trowa)
-- UPI: `yourname@bank` (This section is sample for now; leave a comment, please, if you would like  to use it ^-^)
+- UPI: `yourname@bank` (This section is sample for now; leave a comment, please, if you would like to leave a tip ^-^)
 
