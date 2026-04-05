@@ -59,3 +59,13 @@ star-keyboard-themes/
 - Catppuccin palette from [catppuccin.com](https://catppuccin.com)
 -Vesnea palettes somewhat inspired from [vesnea-theme.com](https://github.com/seavalanche/vesnea-obsidian-theme)
 
+
+---
+
+## Support
+
+If my themes made your keyboard a little nicer:
+
+- Ko-fi: [ko.fi/StarTrowa](https://ko.fi/Star_Trowa)
+- UPI: `yourname@bank` (This section is sample for now; leave a comment, please, if you would like  to use it ^-^)
+
