@@ -57,7 +57,8 @@ star-keyboard-themes/
 - [HeliBoard](https://github.com/Helium314/HeliBoard) — the base keyboard
 - PLN theme inspired by [PipeItToDevNull/PLN](https://github.com/PipeItToDevNull/PLN) Nord variant
 - Catppuccin palette from [catppuccin.com](https://catppuccin.com)
--Vesnea palettes somewhat inspired from [vesnea-theme.com](https://github.com/seavalanche/vesnea-obsidian-theme)
+- Vesnea palettes somewhat inspired from [vesnea-theme.com](https://github.com/seavalanche/vesnea-obsidian-theme)
+- Gundam Wing [Wallpaper](https://i.pximg.net/img-master/img/2025/10/19/18/02/28/136462395_p0_master1200.jpg) by [スワぽん](https://www.pixiv.net/en/users/15476858)
 
 
 ---
