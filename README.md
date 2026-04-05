@@ -67,6 +67,6 @@ star-keyboard-themes/
 
 If my themes made your keyboard a little nicer:
 
-- Ko-fi: [ko.fi/StarTrowa](https://ko.fi/Star_Trowa)
+- Ko-fi: [ko.fi/Star_Trowa](https://ko.fi/Star_Trowa)
 - UPI: `yourname@bank` (This section is sample for now; leave a comment, please, if you would like  to use it ^-^)
 
