@@ -65,7 +65,13 @@ star-keyboard-themes/
 
 ## Support
 
-If my themes made your keyboard a little nicer:
+## Support
 
-- Ko-fi: [ko.fi/Star_Trowa](https://ko.fi/Star_Trowa)
-- UPI: `yourname@bank` (This section is sample for now; leave a comment, please, if you would like to tip ^-^)
+If my themes made your keyboard a little nicer, consider supporting my work:
+
+* **GitHub Sponsors:** [Sponsor @Star-Trowa](https://github.com/sponsors/Star-Trowa)
+* **Ko-fi:** [ko-fi.com/Star_Trowa](https://ko-fi.com/star_trowa)
+* <details>
+  <summary><b>Click to show UPI QR Code (India)</b></summary>
+  <img src="https://github.com/user-attachments/assets/5a7461be-9bb1-401a-8877-98e148ddd80d" width="250" alt="Star_Trowa UPI QR Code">
+</details>
