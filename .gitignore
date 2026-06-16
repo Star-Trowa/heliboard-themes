@@ -1,0 +1,7 @@
+# Ignore packaged release archives
+*.zip
+
+# Windows image cache files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
